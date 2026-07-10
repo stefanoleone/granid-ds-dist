@@ -6,10 +6,10 @@ Generated — do not edit here. Source (private): `stefanoleone/granid-designsys
 Pin a versioned asset from a [Release](https://github.com/stefanoleone/granid-ds-dist/releases):
 
 ```
-https://github.com/stefanoleone/granid-ds-dist/releases/download/v1.0.0/granid-web.css
+https://github.com/stefanoleone/granid-ds-dist/releases/download/v1.1.0/granid-web.css
 ```
 
-Current: **v1.0.0**. Files in this branch track the latest release; `manifest.json`
+Current: **v1.1.0**. Files in this branch track the latest release; `manifest.json`
 carries the `sha256` and an `sha384` (SRI) `integrity` value for the pin.
 
 Releases are cut by CI in the source repo (`.github/workflows/publish-dist.yml`).

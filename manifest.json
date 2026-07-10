@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "ref": "f6ad3fc",
+  "version": "1.1.0",
+  "ref": "working-tree",
   "bundles": [
     {
       "name": "granid-web.css",
@@ -16,9 +16,9 @@
         "components/surfaces.css",
         "patterns/marketing.css"
       ],
-      "bytes": 29666,
-      "sha256": "7aa9df324c2e3ef1d5fc86fa41f9cc728c0a984dd103102ab5017fbe74e71e48",
-      "integrity": "sha384-HipHI9P8Aw8eHWpDcNro9VMHl2GY3PXL3CGGHGiwo15z1brJxxC4yY416sHo1McB"
+      "bytes": 34251,
+      "sha256": "83bb67a902bc9ee0a25185e29667c7baee293c87d39286e43e041e1b124c51a4",
+      "integrity": "sha384-kENcRpJgBUm/XcquNrCdTCjkSBTOA3afBXAXOTL2DDXuo7S+uCXsw6sqkMo9bprF"
     }
   ]
 }
