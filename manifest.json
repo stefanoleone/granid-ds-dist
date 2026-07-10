@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "ref": "f6ad3fc",
+  "bundles": [
+    {
+      "name": "granid-web.css",
+      "title": "granid-website consumer bundle (marketing, light theme)",
+      "sources": [
+        "tokens/01-primitives.css",
+        "tokens/02-semantic.css",
+        "base/reset.css",
+        "primitives/editorial.css",
+        "components/buttons.css",
+        "components/forms.css",
+        "components/feedback.css",
+        "components/surfaces.css",
+        "patterns/marketing.css"
+      ],
+      "bytes": 29666,
+      "sha256": "7aa9df324c2e3ef1d5fc86fa41f9cc728c0a984dd103102ab5017fbe74e71e48",
+      "integrity": "sha384-HipHI9P8Aw8eHWpDcNro9VMHl2GY3PXL3CGGHGiwo15z1brJxxC4yY416sHo1McB"
+    }
+  ]
+}
