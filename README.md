@@ -14,3 +14,10 @@ carries the `sha256` and an `sha384` (SRI) `integrity` value for the pin.
 
 Releases are cut by CI in the source repo (`.github/workflows/publish-dist.yml`).
 Do not commit here by hand.
+
+## Brand assets
+
+[`brand/`](brand/) holds static brand artifacts (logos) with stable,
+hotlinkable raw URLs — referenced by `main`, not release-pinned (a logo is not
+a semver'd surface). See [`brand/README.md`](brand/README.md). Also generated
+from the private source (ADR 0005, 2026-07-17 amendment).
